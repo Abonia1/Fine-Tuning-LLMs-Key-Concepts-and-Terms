@@ -2,11 +2,11 @@
 
 Fine-tuning large language models (LLMs) is crucial for enhancing performance across domain-specific task applications. This comprehensive guide covers essential terms and techniques to help you navigate the fine-tuning process effectively.
 
-| Page 1                                                       | Page 2                                                       |
+
+| Part 1                                                       | Part 2                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| ![]() | ![]() |
-| **Page 3**                                                   |                                                              |
-| ![]() |                                                              |
+| <img src="https://github.com/Abonia1/Fine-Tuning-LLMs-Key-Concepts-and-Terms/blob/main/images/Part1.png" alt="Part 1" width="500"/> | <img src="https://github.com/Abonia1/Fine-Tuning-LLMs-Key-Concepts-and-Terms/blob/main/images/Part2.png" alt="Part 2" width="400"/> |
+
 
 ## :information_desk_person: Introduction
 
